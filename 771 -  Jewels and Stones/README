@@ -1,7 +1,7 @@
 Problem: https://leetcode.com/problems/jewels-and-stones/
 
 v0:
-Time Complexity: O(N)
-Space Complexity: O(N)
+Time Complexity: O(J+S)
+Space Complexity: O(J)
 Runtime: 24 ms, faster than 37.47% of Python online submissions for Jewels and Stones.
 Memory Usage: 12.7 MB, less than 43.43% of Python online submissions for Jewels and Stones.
