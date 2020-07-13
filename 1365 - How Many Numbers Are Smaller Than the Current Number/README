@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
+v0:
+Strategy: Since the range of input is limited, it's feasible to recording frequency of each number by list and get the accumulation of number N by adding N-1
+Time Complexity: O(N)
+Space Complexity: O(1)
+Runtime: 80 ms, faster than 61.89% of Python online submissions for How Many Numbers Are Smaller Than the Current Number.
+Memory Usage: 12.7 MB, less than 76.75% of Python online submissions for How Many Numbers Are Smaller Than the Current Number.
