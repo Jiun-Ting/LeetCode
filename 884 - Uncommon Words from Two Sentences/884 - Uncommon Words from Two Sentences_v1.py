@@ -12,4 +12,3 @@ class Solution(object):
             if v == 1:
                 ans.append(k)
         return ans
-    
