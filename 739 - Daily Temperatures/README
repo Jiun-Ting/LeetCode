@@ -1,0 +1,10 @@
+Problem: https://leetcode.com/problems/daily-temperatures/
+v0:
+Strategy: Use stack to do comparison
+
+Time Complexity: O(N), where N is the number of elements
+Space Complexity: O(N)
+
+result: (varies)
+Runtime: 604 ms, faster than 28.80% of Python online submissions for Daily Temperatures.
+Memory Usage: 17.4 MB, less than 9.75% of Python online submissions for Daily Temperatures.
