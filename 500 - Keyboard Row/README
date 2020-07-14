@@ -1,0 +1,10 @@
+Problem: https://leetcode.com/problems/keyboard-row/
+v0:
+Strategy: Build hash table to record the corresponding line of each alphabet
+
+Time Complexity: O(N), where N is the number of total chars
+Space Complexity: O(1)
+
+result: (varies)
+Runtime: 16 ms, faster than 83.13% of Python online submissions for Keyboard Row.
+Memory Usage: 13 MB, less than 5.77% of Python online submissions for Keyboard Row.
