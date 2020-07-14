@@ -4,9 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        count = collections.Counter(s)
-        s_count = sorted(count.items(), key = lambda x: -x[1])
+        count_bucketSort = collections.Counter(s).most_common()
         ans = ""
-        for i in s_count:
+        for i in count_bucketSort :
             ans+=i[0]*i[1]
         return ans

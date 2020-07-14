@@ -8,3 +8,13 @@ Space Complexity: O(N)
 result:
 Runtime: 60 ms, faster than 59.30% of Python online submissions for Sort Characters By Frequency.
 Memory Usage: 14.9 MB, less than 83.15% of Python online submissions for Sort Characters By Frequency.
+
+v0:
+Strategy: Modify v0 with bucketsort
+
+Time Complexity: O(N), where N is the number of elements
+Space Complexity: O(N)
+
+result: (varies)
+Runtime: 64 ms, faster than 49.61% of Python online submissions for Sort Characters By Frequency.
+Memory Usage: 14.8 MB, less than 97.79% of Python online submissions for Sort Characters By Frequency.
