@@ -8,3 +8,13 @@ Space Complexity: O(N)
 result:
 Runtime: 20 ms, faster than 63.12% of Python online submissions for Binary Tree Inorder Traversal.
 Memory Usage: 12.7 MB, less than 63.60% of Python online submissions for Binary Tree Inorder Traversal.
+
+v1:
+Strategy: Implement DFS using Stack
+
+Time Complexity: O(N), where N is the number of nodes
+Space Complexity: O(N)
+
+result:
+Runtime: 24 ms, faster than 32.96% of Python online submissions for Binary Tree Inorder Traversal.
+Memory Usage: 12.9 MB, less than 15.77% of Python online submissions for Binary Tree Inorder Traversal.
