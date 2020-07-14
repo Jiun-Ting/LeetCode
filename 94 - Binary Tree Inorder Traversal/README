@@ -1,0 +1,10 @@
+Problem: https://leetcode.com/problems/binary-tree-inorder-traversal/
+v0:
+Strategy: Implement DFS recursively
+
+Time Complexity: O(N), where N is the number of nodes
+Space Complexity: O(N)
+
+result:
+Runtime: 20 ms, faster than 63.12% of Python online submissions for Binary Tree Inorder Traversal.
+Memory Usage: 12.7 MB, less than 63.60% of Python online submissions for Binary Tree Inorder Traversal.
