@@ -5,6 +5,16 @@ Strategy: Create sets for each input and compare
 Time Complexity: O(A+B), where A, B are the length of two inputs
 Space Complexity: O(A+B)
 
-result: 
+result:
 Runtime: 12 ms, faster than 97.47% of Python online submissions for Uncommon Words from Two Sentences.
 Memory Usage: 12.7 MB, less than 72.13% of Python online submissions for Uncommon Words from Two Sentences.
+
+v1:
+Strategy: Use the property of "Uncommon words" and use collections.counter to get the frequency
+
+Time Complexity: O(A+B), where A, B are the length of two inputs
+Space Complexity: O(A+B)
+
+result: (varies)
+Runtime: 20 ms, faster than 68.54% of Python online submissions for Uncommon Words from Two Sentences.
+Memory Usage: 12.8 MB, less than 42.62% of Python online submissions for Uncommon Words from Two Sentences.
