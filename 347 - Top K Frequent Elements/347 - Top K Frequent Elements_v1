@@ -5,9 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        count = collections.Counter(nums).most_common(k)
-        ans = []
-        for i in count:
-            ans.append(i[0])
+        count = collections.Counter(nums)
+        count_list = heapq.nlargest(k, [(v, k) for k, v in count.items()])
+        ans = [i[1] for i in count_list]
+
         return ans
                     
