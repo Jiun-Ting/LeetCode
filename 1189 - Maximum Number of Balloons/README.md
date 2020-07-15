@@ -3,7 +3,7 @@ v0:
 Strategy: use hash table and divide the number of each character required to form "balloon"
 
 Time Complexity: O(N), where N is the number elements
-Space Complexity: O(N)
+Space Complexity: O(1), since the number of alphabet is at most 26
 
 result:
 Runtime: 28 ms, faster than 68.52% of Python online submissions for Maximum Number of Balloons.
