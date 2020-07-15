@@ -7,4 +7,8 @@ class Solution(object):
         count = collections.defaultdict(int)
         for i in text:
             count[i] += 1
-        return min(count["b"], count["a"], count["l"]/2, count["o"]/2, count["n"])
+        count_input = collections.Counter('balloon')
+        ans = len(text)
+        for k, v in count_input.items():
+            ans = min(ans, count[k]/v)
+        return ans
