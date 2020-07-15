@@ -1,0 +1,10 @@
+Problem: https://leetcode.com/problems/intersection-of-two-arrays/
+v0:
+Strategy: use set and take the shorter one as the base to compare
+
+Time Complexity: O(min(N1, N2)), where Ni is the number elements
+Space Complexity: O(N1+N2)
+
+result:
+Runtime: 36 ms, faster than 63.02% of Python online submissions for Intersection of Two Arrays.
+Memory Usage: 12.8 MB, less than 65.89% of Python online submissions for Intersection of Two Arrays.
