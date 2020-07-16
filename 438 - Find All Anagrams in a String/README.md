@@ -1,6 +1,6 @@
 Problem: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 v0:
-Strategy: Build Hash table and check in the complement value exist
+Strategy: Build Hash table and check with sliding window
 
 Time Complexity: O(S), where S is the length of s
 Space Complexity: O(P), where P is the length of p
