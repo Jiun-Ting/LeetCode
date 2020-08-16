@@ -5,5 +5,5 @@ Time Complexity: O(len(coin)*amount)
 Space Complexity: O(amount)
 
 result:
-Runtime: 1340 ms, faster than 43.57% of Python online submissions for Coin Change.
-Memory Usage: 13.1 MB, less than 37.92% of Python online submissions for Coin Change.
+Runtime: 1084 ms, faster than 67.97% of Python online submissions for Coin Change.
+Memory Usage: 13 MB, less than 59.44% of Python online submissions for Coin Change.
