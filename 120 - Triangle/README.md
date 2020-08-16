@@ -1,8 +1,8 @@
 Problem: https://leetcode.com/problems/triangle/
 Strategy: DP
 
-Time Complexity: O(n^2)
-Space Complexity: O(n^2)
+Time Complexity: O(n)
+Space Complexity: O(n)
 
 result:
 Runtime: 44 ms, faster than 88.53% of Python online submissions for Triangle.
