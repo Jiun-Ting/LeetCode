@@ -14,5 +14,4 @@ class Solution(object):
                      Min = min(Min, dp[i-coin])
             if Min < amount + 1:
                 dp[i] = Min + 1
-        print(dp)
         return dp[amount]
