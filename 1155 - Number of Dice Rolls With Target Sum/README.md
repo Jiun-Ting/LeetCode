@@ -1,5 +1,5 @@
 Problem: https://leetcode.com/problems/maximal-square
-Strategy: DP, Minimum (Maximum) Path to Reach a Target
+Strategy: DP, Distinct Ways
 Time Complexity: O(d*target*f)
 Space Complexity: O(d*target)
 
