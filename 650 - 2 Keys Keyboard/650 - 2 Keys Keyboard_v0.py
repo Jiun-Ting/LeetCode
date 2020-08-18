@@ -4,11 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        dp = [0]*(n+1)
+        dp = [i for i in range(n+1)]
+        dp[0] = dp[1] = 0
         for i in range(2, n+1):
-            Min = i
-            for k in range(2, i/2+1):
+            for k in range(i/2, 1, -1):
                 if i%k == 0:
-                    Min = min(Min, dp[k] + i/k)
-            dp[i] = Min
+                    dp[i] =  dp[k] + i/k
+                    break
+
         return dp[n]
