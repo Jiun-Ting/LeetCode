@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/car-pooling/
+Strategy: Greedy, interval: Record the variation of each stop and count
+Time Complexity: O(n)
+Space Complexity: O(m), m is given (constant)
+
+result:
+Runtime: 64 ms, faster than 55.47% of Python online submissions for Car Pooling.
+Memory Usage: 13.3 MB, less than 9.43% of Python online submissions for Car Pooling.
