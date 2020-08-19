@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/subarray-product-less-than-k/
+Strategy: Sliding Window
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+result:
+Runtime: 212 ms, faster than 58.60% of Python online submissions for Squares of a Sorted Array.
+Memory Usage: 14.9 MB, less than 7.25% of Python online submissions for Squares of a Sorted Array.
