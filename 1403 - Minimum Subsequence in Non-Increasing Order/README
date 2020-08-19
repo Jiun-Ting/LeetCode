@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+Strategy: Greedy, sort and solve
+Time Complexity: O(nlogn)
+Space Complexity: O(n)
+
+result:
+Runtime: 64 ms, faster than 60.08% of Python online submissions for Minimum Subsequence in Non-Increasing Order.
+Memory Usage: 12.7 MB, less than 74.70% of Python online submissions for Minimum Subsequence in Non-Increasing Order.
