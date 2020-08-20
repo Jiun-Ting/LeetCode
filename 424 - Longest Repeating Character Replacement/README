@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/longest-repeating-character-replacement/
+Strategy: Sliding Window, maxlen
+Time Complexity: O(n*number of distinct char)
+Space Complexity: O(n)
+
+result:
+Runtime: 560 ms, faster than 7.85% of Python online submissions for Longest Repeating Character Replacement.
+Memory Usage: 12.9 MB, less than 75.00% of Python online submissions for Longest Repeating Character Replacement.

@@ -2,20 +2,40 @@ Sliding window
 https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions
 
 TODO
-https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+
+Leetcode # 340 - Longest Substring with At Most K Distinct Characters
+
+Deque
+  https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+  https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+
 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
-https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 https://leetcode.com/problems/subarrays-with-k-different-integers/
-https://leetcode.com/problems/fruit-into-baskets/
+https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+
 https://leetcode.com/problems/longest-repeating-character-replacement/
-https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
-https://leetcode.com/problems/sliding-window-maximum/
+
+
 https://leetcode.com/problems/minimum-window-substring/
+https://leetcode.com/problems/sliding-window-maximum/
+567 - Permutation in String
 
 DONE
 209 - Minimum Size Subarray Sum
+  https://leetcode.com/problems/minimum-size-subarray-sum/
+
 1004 - Max Consecutive Ones III
+  https://leetcode.com/problems/max-consecutive-ones-iii/
 1208 - Get Equal Substrings Within Budget
+  https://leetcode.com/problems/get-equal-substrings-within-budget/
 3 - Longest Substring Without Repeating Characters
+  https://leetcode.com/problems/longest-substring-without-repeating-characters/
+904. Fruit Into Baskets
+  https://leetcode.com/problems/fruit-into-baskets/
+  
 930 - Binary Subarrays With Sum
+  https://leetcode.com/problems/binary-subarrays-with-sum/
 1248 - Count Number of Nice Subarrays
+ https://leetcode.com/problems/count-number-of-nice-subarrays/
+713. Subarray Product Less Than K
+ https://leetcode.com/problems/subarray-product-less-than-k/
