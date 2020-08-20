@@ -1,0 +1,8 @@
+Problem: 1358. Number of Substrings Containing All Three Characters
+Strategy: Sliding Window, number of subarray
+Time Complexity: O(n*number of distinct char)
+Space Complexity: O(n)
+
+result:
+Runtime: 416 ms, faster than 49.15% of Python online submissions for Number of Substrings Containing All Three Characters.
+Memory Usage: 13.5 MB, less than 74.58% of Python online submissions for Number of Substrings Containing All Three Characters.
