@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/fruit-into-baskets/
+Strategy: Sliding Window, maxlen
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+result:
+Runtime: 1024 ms, faster than 32.77% of Python online submissions for Fruit Into Baskets.
+Memory Usage: 17.3 MB, less than 94.33% of Python online submissions for Fruit Into Baskets.
