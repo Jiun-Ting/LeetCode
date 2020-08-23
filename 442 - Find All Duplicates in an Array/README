@@ -6,3 +6,11 @@ Space Complexity: O(1)
 result:
 Runtime: 716 ms, faster than 5.14% of Python online submissions for Find All Duplicates in an Array.
 Memory Usage: 20.1 MB, less than 40.97% of Python online submissions for Find All Duplicates in an Array.
+
+Strategy: Cyclic Sort, modify element in original array to negative
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+result:
+Runtime: 340 ms, faster than 82.02% of Python online submissions for Find All Duplicates in an Array.
+Memory Usage: 20 MB, less than 43.86% of Python online submissions for Find All Duplicates in an Array.
