@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/insert-interval/
+Strategy: Merge Interval
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+result:
+Runtime: 128 ms, faster than 6.13% of Python online submissions for Insert Interval.
+Memory Usage: 16.1 MB, less than 49.17% of Python online submissions for Insert Interval.
