@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/first-missing-positive/
+Strategy: Cyclic Sort,
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+result:
+Runtime: 16 ms, faster than 98.59% of Python online submissions for First Missing Positive.
+Memory Usage: 12.8 MB, less than 33.44% of Python online submissions for First Missing Positive.
