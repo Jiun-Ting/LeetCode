@@ -6,3 +6,11 @@ Space Complexity: O(1)
 result:
 Runtime: 236 ms, faster than 16.17% of Python online submissions for Missing Number.
 Memory Usage: 13.6 MB, less than 70.64% of Python online submissions for Missing Number.
+
+
+Strategy: Cyclic sort
+Time Complexity: O(n)
+Space Complexity: O(1)
+result
+Runtime: 136 ms, faster than 52.64% of Python online submissions for Missing Number.
+Memory Usage: 13.7 MB, less than 45.40% of Python online submissions for Missing Number.
