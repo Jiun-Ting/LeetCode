@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/merge-intervals/
+Strategy: Merge Interval
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+result:
+Runtime: 64 ms, faster than 96.74% of Python online submissions for Merge Intervals.
+Memory Usage: 15.1 MB, less than 18.28% of Python online submissions for Merge Intervals.
