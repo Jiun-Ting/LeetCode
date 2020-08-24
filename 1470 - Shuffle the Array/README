@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/shuffle-the-array/
+Strategy: straight forward
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 48 ms, faster than 80.98% of Python online submissions for Shuffle the Array.
+Memory Usage: 12.8 MB, less than 81.21% of Python online submissions for Shuffle the Array.
