@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/online-stock-span/
+Strategy: stack
+Time Complexity: O(1) (amortized)
+Space Complexity: O(1)
+
+result:
+Runtime: 460 ms, faster than 90.84% of Python online submissions for Online Stock Span.
+Memory Usage: 17.6 MB, less than 89.74% of Python online submissions for Online Stock Span.
