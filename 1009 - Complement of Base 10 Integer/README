@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/complement-of-base-10-integer/
+Strategy: bit operation
+Time Complexity: O(n), n is number of bits of N
+Space Complexity: O(1)
+
+result:
+Runtime: 12 ms, faster than 96.46% of Python online submissions for Complement of Base 10 Integer.
+Memory Usage: 12.7 MB, less than 75.22% of Python online submissions for Complement of Base 10 Integer.
