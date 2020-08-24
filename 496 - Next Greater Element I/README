@@ -1,0 +1,8 @@
+https://leetcode.com/problems/next-greater-element-i/
+Strategy: Stack, next greater
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 60 ms, faster than 42.28% of Python online submissions for Next Greater Element I.
+Memory Usage: 12.9 MB, less than 67.51% of Python online submissions for Next Greater Element I.
