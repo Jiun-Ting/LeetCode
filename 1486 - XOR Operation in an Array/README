@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/xor-operation-in-an-array/
+Strategy: XOR-Brute Force
+Time Complexity: O(N)
+Space Complexity: O(1)
+
+result:
+Runtime: 20 ms, faster than 69.45% of Python online submissions for XOR Operation in an Array.
+Memory Usage: 12.8 MB, less than 36.12% of Python online submissions for XOR Operation in an Array.
