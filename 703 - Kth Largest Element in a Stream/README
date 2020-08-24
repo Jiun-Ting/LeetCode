@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/kth-largest-element-in-a-stream/
+Strategy: heap
+Time Complexity: O(nlogK)
+Space Complexity: O(k)
+
+result:
+Runtime: 188 ms, faster than 35.82% of Python online submissions for Kth Largest Element in a Stream.
+Memory Usage: 16.8 MB, less than 89.27% of Python online submissions for Kth Largest Element in a Stream.
