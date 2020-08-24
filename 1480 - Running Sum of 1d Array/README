@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/running-sum-of-1d-array/
+Strategy: count the next element based the past result
+Time Complexity: O(N)
+Space Complexity: O(1)
+
+result:
+Runtime: 36 ms, faster than 41.32% of Python online submissions for Running Sum of 1d Array.
+Memory Usage: 12.8 MB, less than 87.03% of Python online submissions for Running Sum of 1d Array.
