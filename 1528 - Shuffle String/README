@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/shuffle-string/
+Strategy: Cyclic sort
+Time Complexity: O(N)
+Space Complexity: O(1)
+
+result:
+Runtime: 48 ms, faster than 55.49% of Python online submissions for Shuffle String.
+Memory Usage: 13 MB, less than 5.14% of Python online submissions for Shuffle String.
