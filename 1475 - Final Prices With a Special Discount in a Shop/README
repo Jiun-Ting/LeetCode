@@ -1,0 +1,8 @@
+https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+Strategy: Stack
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 52 ms, faster than 69.31% of Python online submissions for Final Prices With a Special Discount in a Shop.
+Memory Usage: 12.9 MB, less than 37.93% of Python online submissions for Final Prices With a Special Discount in a Shop.
