@@ -1,0 +1,8 @@
+Problem: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+Strategy: Get top 2 maximum by two pass
+Time Complexity: O(N)
+Space Complexity: O(1)
+
+result:
+Runtime: 56 ms, faster than 36.16% of Python online submissions for Maximum Product of Two Elements in an Array.
+Memory Usage: 13 MB, less than 8.38% of Python online submissions for Maximum Product of Two Elements in an Array.
