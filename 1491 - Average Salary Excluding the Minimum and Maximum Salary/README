@@ -1,0 +1,8 @@
+https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+Strategy: one-pass
+Time Complexity: O(N)
+Space Complexity: O(1)
+
+result:
+Runtime: 28 ms, faster than 32.69% of Python online submissions for Average Salary Excluding the Minimum and Maximum Salary.
+Memory Usage: 12.7 MB, less than 71.19% of Python online submissions for Average Salary Excluding the Minimum and Maximum Salary.
