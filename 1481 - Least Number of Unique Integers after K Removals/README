@@ -1,0 +1,8 @@
+https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+Strategy: sorted
+Time Complexity: O(NlogN)
+Space Complexity: O(N)
+
+result:
+Runtime: 648 ms, faster than 52.85% of Python online submissions for Least Number of Unique Integers after K Removals.
+Memory Usage: 37.2 MB, less than 25.91% of Python online submissions for Least Number of Unique Integers after K Removals.
