@@ -1,0 +1,8 @@
+https://leetcode.com/problems/3sum/
+Strategy: two-pointer
+Time Complexity: O(N^2)
+Space Complexity: O(N^2)
+
+result:
+Runtime: 844 ms, faster than 49.86% of Python online submissions for 3Sum.
+Memory Usage: 15.9 MB, less than 75.29% of Python online submissions for 3Sum.
