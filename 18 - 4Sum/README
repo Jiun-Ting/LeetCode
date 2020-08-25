@@ -1,0 +1,8 @@
+https://leetcode.com/problems/4sum/
+Strategy: two-pointer
+Time Complexity: O(N^3)
+Space Complexity: O(1)
+
+result:
+Runtime: 792 ms, faster than 47.42% of Python online submissions for 4Sum.
+Memory Usage: 12.9 MB, less than 23.66% of Python online submissions for 4Sum.
