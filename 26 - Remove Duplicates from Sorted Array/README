@@ -6,3 +6,6 @@ Space Complexity: O(1)
 result:
 Runtime: 76 ms, faster than 67.49% of Python online submissions for Remove Duplicates from Sorted Array.
 Memory Usage: 14.5 MB, less than 53.84% of Python online submissions for Remove Duplicates from Sorted Array.
+
+v1
+Strategy: two pointer - more concise
