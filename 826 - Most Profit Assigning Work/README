@@ -1,0 +1,8 @@
+https://leetcode.com/problems/most-profit-assigning-work/
+Strategy: sort and two-pointer
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 356 ms, faster than 62.34% of Python online submissions for Most Profit Assigning Work.
+Memory Usage: 15.5 MB, less than 35.07% of Python online submissions for Most Profit Assigning Work.
