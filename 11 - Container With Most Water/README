@@ -1,0 +1,8 @@
+https://leetcode.com/problems/container-with-most-water/
+Strategy: two-pointer
+Time Complexity: O(N)
+Space Complexity: O(1)
+
+result:
+Runtime: 100 ms, faster than 94.01% of Python online submissions for Container With Most Water.
+Memory Usage: 14.1 MB, less than 16.03% of Python online submissions for Container With Most Water. 
