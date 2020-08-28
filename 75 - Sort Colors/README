@@ -1,0 +1,15 @@
+https://leetcode.com/problems/sort-colors/
+Strategy: two pass by counting sort
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 12 ms, faster than 99.29% of Python online submissions for Sort Colors.
+Memory Usage: 12.7 MB, less than 59.88% of Python online submissions for Sort Colors.
+
+v1
+Strategy: multiple pointers
+Time Complexity: O(N)
+Space Complexity: O(1)
+Runtime: 16 ms, faster than 95.68% of Python online submissions for Sort Colors.
+Memory Usage: 12.7 MB, less than 51.70% of Python online submissions for Sort Colors.
