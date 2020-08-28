@@ -1,0 +1,8 @@
+https://leetcode.com/problems/k-diff-pairs-in-an-array/
+Strategy: one pass by hash table
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 116 ms, faster than 84.85% of Python online submissions for K-diff Pairs in an Array.
+Memory Usage: 15.5 MB, less than 8.71% of Python online submissions for K-diff Pairs in an Array.
