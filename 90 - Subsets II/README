@@ -1,0 +1,8 @@
+https://leetcode.com/problems/subsets-ii/
+Strategy: backtrack
+Time Complexity: O(2**N)
+Space Complexity: O(2**N)
+
+result:
+Runtime: 20 ms, faster than 95.57% of Python online submissions for Subsets II.
+Memory Usage: 12.7 MB, less than 91.03% of Python online submissions for Subsets II.
