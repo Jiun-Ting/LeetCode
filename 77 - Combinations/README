@@ -1,0 +1,8 @@
+https://leetcode.com/problems/combinations/
+Strategy: backtrack
+Time Complexity: O(2**N)
+Space Complexity: O(2**N)
+
+result:
+Runtime: 612 ms, faster than 61.84% of Python online submissions for Combinations.
+Memory Usage: 14.6 MB, less than 15.76% of Python online submissions for Combinations.
