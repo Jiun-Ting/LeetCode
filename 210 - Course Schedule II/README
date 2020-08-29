@@ -1,0 +1,8 @@
+https://leetcode.com/problems/course-schedule-ii/
+Strategy: solve topology sort by BFS
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 80 ms, faster than 95.41% of Python online submissions for Course Schedule II.
+Memory Usage: 14.2 MB, less than 85.85% of Python online submissions for Course Schedule II.

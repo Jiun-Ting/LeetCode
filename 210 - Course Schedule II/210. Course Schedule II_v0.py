@@ -1,13 +1,12 @@
 class Solution(object):
-    def canFinish(self, numCourses, prerequisites):
+    def findOrder(self, numCourses, prerequisites):
         """
         :type numCourses: int
         :type prerequisites: List[List[int]]
-        :rtype: bool
+        :rtype: List[int]
         """
         graph = [[] for i in range(numCourses)]
         degree = [0]*numCourses
-        Pass = [False]*numCourses
         for i, j in prerequisites:
             graph[j].append(i)
             degree[i] += 1
@@ -16,12 +15,15 @@ class Solution(object):
         for i, v in enumerate(degree):
             if v == 0:
                 q.append(i)
-                Pass[i] = True
+        ans = []
         while q:
             pre = q.pop()
+            ans.append(pre)
             for i in graph[pre]:
                 degree[i] -= 1
                 if degree[i] == 0:
                     q.append(i)
-                    Pass[i] = True
-        return sum(Pass) == numCourses
+
+        if len(ans) < numCourses:
+            return []
+        return ans
