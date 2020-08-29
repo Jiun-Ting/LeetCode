@@ -1,0 +1,8 @@
+https://leetcode.com/problems/subsets/
+Strategy: backtrack
+Time Complexity: O(2**N)
+Space Complexity: O(2**N)
+
+result:
+Runtime: 28 ms, faster than 48.31% of Python online submissions for Subsets.
+Memory Usage: 12.8 MB, less than 58.34% of Python online submissions for Subsets.
