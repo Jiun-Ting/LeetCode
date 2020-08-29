@@ -1,8 +1,18 @@
-https://leetcode.com/problems/third-maximum-number/
-Strategy: two heap
-Time Complexity: O(N) +Nlog3
+https://leetcode.comproblemscourse-schedule
+v0
+Strategy: DFS
+Time Complexity: O(N)
 Space Complexity: O(N)
 
 result:
-Runtime: 48 ms, faster than 52.12% of Python online submissions for Third Maximum Number.
-Memory Usage: 14 MB, less than 20.73% of Python online submissions for Third Maximum Number.
+Runtime: 968 ms, faster than 8.85% of Python online submissions for Course Schedule.
+Memory Usage: 16.2 MB, less than 17.89% of Python online submissions for Course Schedule.
+
+v1
+Strategy: BFS
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 72 ms, faster than 98.93% of Python online submissions for Course Schedule.
+Memory Usage: 14.3 MB, less than 81.13% of Python online submissions for Course Schedule.
