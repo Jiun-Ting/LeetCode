@@ -1,0 +1,8 @@
+https://leetcode.com/problems/count-good-triplets/
+Strategy: Brute Force
+Time Complexity: O(N**3)
+Space Complexity: O(N)
+
+result:
+Runtime: 540 ms, faster than 59.44% of Python online submissions for Count Good Triplets.
+Memory Usage: 12.9 MB, less than 19.23% of Python online submissions for Count Good Triplets.
