@@ -4,10 +4,7 @@ https://blog.techbridge.cc/2019/08/30/leetcode-pattern-two-pointer/
 923 - 3Sum With Multiplicity (TLE)
 259 - 3Sum Smaller (lock)
 
-75 - Sort Colors
 844 - Backspace String Compare
-532. K-diff Pairs in an Array
-80. Remove Duplicates from Sorted Array II
 986. Interval List Intersections
 881. Boats to Save People
 
@@ -21,3 +18,6 @@ DONE
 11 - Container With Most Water
 826. Most Profit Assigning Work
 845. Longest Mountain in Array
+80. Remove Duplicates from Sorted Array II
+532. K-diff Pairs in an Array
+75 - Sort Colors

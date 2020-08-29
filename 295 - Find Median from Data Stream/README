@@ -1,0 +1,8 @@
+https://leetcode.com/problems/find-median-from-data-stream/
+Strategy: two heap
+Time Complexity: O(logN) for each operation
+Space Complexity: O(N)
+
+result:
+Runtime: 252 ms, faster than 92.70% of Python online submissions for Find Median from Data Stream.
+Memory Usage: 24.8 MB, less than 73.27% of Python online submissions for Find Median from Data Stream.
