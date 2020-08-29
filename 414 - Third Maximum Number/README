@@ -1,0 +1,8 @@
+https://leetcode.com/problems/third-maximum-number/
+Strategy: two heap
+Time Complexity: O(N) +Nlog3
+Space Complexity: O(N)
+
+result:
+Runtime: 48 ms, faster than 52.12% of Python online submissions for Third Maximum Number.
+Memory Usage: 14 MB, less than 20.73% of Python online submissions for Third Maximum Number.
