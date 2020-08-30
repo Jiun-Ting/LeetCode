@@ -1,0 +1,8 @@
+https://leetcode.com/problems/number-of-islands/
+Strategy: BFS
+Time Complexity: O(N**2)
+Space Complexity: O(N**2)
+
+result:
+Runtime: 124 ms, faster than 88.84% of Python online submissions for Number of Islands.
+Memory Usage: 19.7 MB, less than 93.05% of Python online submissions for Number of Islands.
