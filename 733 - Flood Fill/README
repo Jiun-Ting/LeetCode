@@ -9,3 +9,6 @@ Memory Usage: 12.8 MB, less than 67.33% of Python online submissions for Flood F
 
 v1
 more concise version
+result
+Runtime: 56 ms, faster than 98.01% of Python online submissions for Flood Fill.
+Memory Usage: 13 MB, less than 19.66% of Python online submissions for Flood Fill.

@@ -1,0 +1,8 @@
+https://leetcode.com/problems/max-area-of-island/
+Strategy: BFS
+Time Complexity: O(N**2)
+Space Complexity: O(N**2)
+
+result:
+Runtime: 112 ms, faster than 94.69% of Python online submissions for Max Area of Island.
+Memory Usage: 12.9 MB, less than 89.85% of Python online submissions for Max Area of Island.
