@@ -1,0 +1,8 @@
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
+Strategy: BFS
+Time Complexity: O(N**2)
+Space Complexity: O(N**2)
+
+result:
+Runtime: 564 ms, faster than 75.98% of Python online submissions for Shortest Path in Binary Matrix.
+Memory Usage: 13.1 MB, less than 63.97% of Python online submissions for Shortest Path in Binary Matrix.
