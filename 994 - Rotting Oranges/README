@@ -1,0 +1,8 @@
+https://leetcode.com/problems/rotting-oranges/
+Strategy: BFS
+Time Complexity: O(N**2)
+Space Complexity: O(N**2)
+
+result:
+Runtime: 48 ms, faster than 36.46% of Python online submissions for Rotting Oranges.
+Memory Usage: 12.8 MB, less than 35.29% of Python online submissions for Rotting Oranges.
