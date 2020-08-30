@@ -1,0 +1,8 @@
+https://leetcode.com/problems/01-matrix/
+Strategy: BFS
+Time Complexity: O(N**2)
+Space Complexity: O(N**2)
+
+result:
+Runtime: 1012 ms, faster than 24.64% of Python online submissions for 01 Matrix.
+Memory Usage: 16.4 MB, less than 26.93% of Python online submissions for 01 Matrix.
