@@ -1,0 +1,11 @@
+https://leetcode.com/problems/flood-fill/
+Strategy: BFS
+Time Complexity: O(N**2)
+Space Complexity: O(N**2)
+
+result:
+Runtime: 68 ms, faster than 61.37% of Python online submissions for Flood Fill.
+Memory Usage: 12.8 MB, less than 67.33% of Python online submissions for Flood Fill.
+
+v1
+more concise version
