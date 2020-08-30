@@ -1,0 +1,8 @@
+https://leetcode.com/problems/number-of-enclaves/
+Strategy: BFS
+Time Complexity: O(N**2)
+Space Complexity: O(N**2)
+
+result:
+Runtime: 620 ms, faster than 50.00% of Python online submissions for Number of Enclaves.
+Memory Usage: 13.8 MB, less than 76.14% of Python online submissions for Number of Enclaves.
