@@ -1,0 +1,10 @@
+https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+v0:
+Strategy: Union Find
+
+Time Complexity: O(N), where  N is the number of element
+Space Complexity: O(N)
+
+result:
+Runtime: 1336 ms, faster than 5.95% of Python online submissions for Number of Operations to Make Network Connected.
+Memory Usage: 33.3 MB, less than 75.00% of Python online submissions for Number of Operations to Make Network Connected.

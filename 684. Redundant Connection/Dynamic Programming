@@ -1,0 +1,10 @@
+Problem: https://leetcode.com/problems/redundant-connection/
+v0:
+Strategy: Union Find
+
+Time Complexity: O(N), where  N is the number of element
+Space Complexity: O(N)
+
+result:
+Runtime: 68 ms, faster than 31.25% of Python online submissions for Redundant Connection.
+Memory Usage: 13.1 MB, less than 57.64% of Python online submissions for Redundant Connection.
