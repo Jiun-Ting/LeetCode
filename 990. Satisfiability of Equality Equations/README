@@ -1,0 +1,10 @@
+https://leetcode.com/problems/satisfiability-of-equality-equations/
+v0:
+Strategy: Union Find
+
+Time Complexity: O(N), where  N is the number of element
+Space Complexity: O(N)
+
+result:
+Runtime: 32 ms, faster than 85.59% of Python online submissions for Satisfiability of Equality Equations.
+Memory Usage: 12.9 MB, less than 40.54% of Python online submissions for Satisfiability of Equality Equations.
