@@ -1,0 +1,10 @@
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+v0:
+Strategy: sort and two pointer
+
+Time Complexity: O(NlogN), where  N is the number of element
+Space Complexity: O(N)
+
+result:
+Runtime: 184 ms, faster than 84.80% of Python online submissions for Shortest Unsorted Continuous Subarray.
+Memory Usage: 13.7 MB, less than 55.49% of Python online submissions for Shortest Unsorted Continuous Subarray.

@@ -1,0 +1,10 @@
+https://leetcode.com/problems/sliding-window-maximum/
+v0:
+Strategy: sliding window with deque, one pass
+
+Time Complexity: O(N), where  N is the number of element
+Space Complexity: O(N)
+
+result:
+Runtime: 308 ms, faster than 72.10% of Python online submissions for Sliding Window Maximum.
+Memory Usage: 23.4 MB, less than 50.87% of Python online submissions for Sliding Window Maximum.
