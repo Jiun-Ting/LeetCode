@@ -1,0 +1,10 @@
+https://leetcode.com/problems/count-servers-that-communicate/
+v0:
+Strategy: graph, special property
+
+Time Complexity: O(N), where  N is the number of element
+Space Complexity: O(N)
+
+result:
+Runtime: 476 ms, faster than 71.96% of Python online submissions for Count Servers that Communicate.
+Memory Usage: 13.8 MB, less than 99.07% of Python online submissions for Count Servers that Communicate.
