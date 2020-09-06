@@ -1,0 +1,10 @@
+https://leetcode.com/problems/target-sum/
+v0:
+Strategy: DP, 0/1 knapsack
+
+Time Complexity: O(N*SUM(nums))
+Space Complexity: O(sum(nums)
+
+result:
+Runtime: 148 ms, faster than 87.59% of Python online submissions for Target Sum.
+Memory Usage: 12.9 MB, less than 70.61% of Python online submissions for Target Sum.
