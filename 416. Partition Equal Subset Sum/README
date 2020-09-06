@@ -1,0 +1,10 @@
+https://leetcode.com/problems/partition-equal-subset-sum/
+v0:
+Strategy: DP, 0/1 knapsack
+
+Time Complexity: O(N*SUM(nums))
+Space Complexity: O(N)
+
+result:
+Runtime: 2328 ms, faster than 22.40% of Python online submissions for Partition Equal Subset Sum.
+Memory Usage: 17.2 MB, less than 13.96% of Python online submissions for Partition Equal Subset Sum.
