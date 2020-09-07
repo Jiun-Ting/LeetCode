@@ -1,0 +1,10 @@
+https://leetcode.com/problems/house-robber/
+v0:
+Strategy: DP, fibonacci
+
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 16 ms, faster than 91.79% of Python online submissions for House Robber.
+Memory Usage: 12.6 MB, less than 92.20% of Python online submissions for House Robber.
