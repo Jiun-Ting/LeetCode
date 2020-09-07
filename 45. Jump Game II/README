@@ -1,0 +1,10 @@
+https://leetcode.com/problems/jump-game-ii/
+v0:
+Strategy: DP, fibonacci
+
+Time Complexity: O(N)
+Space Complexity: O(N)
+
+result:
+Runtime: 72 ms, faster than 95.27% of Python online submissions for Jump Game II.
+Memory Usage: 14.4 MB, less than 20.65% of Python online submissions for Jump Game II.
