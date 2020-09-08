@@ -1,0 +1,10 @@
+https://leetcode.com/problems/longest-common-subsequence/
+v0:
+Strategy: DP, string
+
+Time Complexity: O(NM)
+Space Complexity: O(NM)
+
+result:
+Runtime: 376 ms, faster than 55.45% of Python online submissions for Longest Common Subsequence.
+Memory Usage: 21.5 MB, less than 26.41% of Python online submissions for Longest Common Subsequence.
